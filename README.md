@@ -1,4 +1,7 @@
-# todo-ninja
+This is a Vuejs full stack project. A todo list dynamic web app. built with Vuejs vuetify, vuecli-3, CSS for fron-end and Firebase for backend
+
+
+# todo-fullstack
 
 ## Project setup
 ```
